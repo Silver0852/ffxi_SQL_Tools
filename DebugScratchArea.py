@@ -289,3 +289,4 @@ findFiles('.csv','_')
 
 #session = s.cnnf()
 #dictOjb = session.execute('''select * From vwCrafting;''')
+#blank line
